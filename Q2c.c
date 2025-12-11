@@ -2,7 +2,7 @@
 #include <string.h>
 #include <sys/wait.h>
 
-#define WELCOME_MSG "Bienvenue dans le Shell ENSEA.\nPour quitter, tapez 'exit'.\n"
+#define WELCOME_MSG "Bienvenue dans le Shell ENSEA.\n"
 #define PROMPT "enseash % "
 #define BUFFER_SIZE 256
 
@@ -24,8 +24,6 @@ int main(void) {
             *newline = '\0';
 
 
-        if (strcmp(buffer, "exit") == 0)
-            break;
 
 
 
