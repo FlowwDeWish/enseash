@@ -17,3 +17,6 @@ Q3) On doit pouvoir sortir du shell à l'aide d'un Ctrl+D ou d'un exit. Ce qui e
 dans notre programme à l'aide de condition
 et d'un break qui nous permet de sortir de la boucle une fois que crtl D ou exit et écrit par
 l'utilisateur dans le terminal.
+
+<img width="1583" height="693" alt="image" src="https://github.com/user-attachments/assets/878f1b78-d40f-400a-b41c-76991ed05659" />
+
